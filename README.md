@@ -59,11 +59,3 @@ Download the theme from the Obsidian Community Themes browser or clone this repo
 
 
 If Oat Latte has made your note-taking a little cozier, a GitHub ⭐ would mean a lot to me. 🤎
-
-
-
-###### Author
-
-
-
-Created by Giselle.
