@@ -1,6 +1,6 @@
 #### Oat Latte
 
-![Oat Latte](screenshot.png)
+
 
 A warm, cozy Obsidian theme inspired by oat milk lattes, vintage notebooks, and quiet cafés.
 
